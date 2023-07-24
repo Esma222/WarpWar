@@ -28,7 +28,7 @@ public class Console {
     }
 
     public void setup() throws Exception { // --- Contructor
-        // ------ Standard code for mouse and keyboard ------ Do not change
+        // ------ Standard code for mouse and keyboard ------ Do not change.
         klis = new KeyListener() {
             public void keyTyped(KeyEvent e) {
             }
